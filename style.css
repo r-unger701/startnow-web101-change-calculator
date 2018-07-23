@@ -1,0 +1,63 @@
+h1 {
+    font-family: "Trebuchet MS";
+    border-radius: 20px;
+    background-color: #1a53ff;
+    text-align: center;
+    margin: 1em 5em 1em 5em;
+  }
+  
+  div {
+    border-radius: 20px;
+    background-color: #99ddff;
+    padding-top: 1px;
+    padding-bottom: 25px;
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-bottom: 5px;
+  }
+  
+  #amount-due {
+    display: block;
+    margin: auto;
+  }
+  
+  #amount-received {
+    display: block;
+    margin: auto;
+  }
+  
+  #calculate-change {
+    display: block;
+    margin: auto;
+
+  }
+  
+  .inputtext {
+    text-align: center;
+    font-family: "Trebuchet MS";
+  }
+  
+  #dollars-output {
+    text-align: center;
+    font-size: 50px;
+  }
+  
+  #quarters-output {
+    text-align: center;
+    font-size: 50px;
+  }
+
+  #dimes-output {
+    text-align: center;
+    font-size: 50px;
+  }
+
+  #nickels-output {
+    text-align: center;
+    font-size: 50px;
+  }
+
+  #pennies-output {
+    text-align: center;
+    font-size: 50px;
+  }
